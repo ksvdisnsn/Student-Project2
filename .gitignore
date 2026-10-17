@@ -1,0 +1,13 @@
+*.tmp
+*.temp
+temp/
+unnecessary/
+
+Meaning:
+
+Rule	Meaning
+
+*.tmp	Ignore .tmp files
+*.temp	Ignore .temp files
+temp/	Ignore folder called temp
+unnecessary/	Ignore folder called unnecessary
